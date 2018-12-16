@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\WeatherForcaster\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "E:\\WeatherForcaster\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\WeatherForcaster\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\weather.png",
+        "source": "E:\\WeatherForcaster\\app\\src\\main\\res\\mipmap-xxxhdpi\\weather.png"
+    }
+]

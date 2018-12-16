@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\WeatherForcaster\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="E:\WeatherForcaster\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_22fb8c6b57af7c308d2aa3325b38ad23177cea6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WeatherForcaster\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="87f7102779d55c0f998ec786abd7b78c4ba335d9">
+        <dex dex="E:\WeatherForcaster\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_39e3ed908b9b212a21b5674287a7c13f19576f40\classes.dex" />
+    </item>
+
+</items>

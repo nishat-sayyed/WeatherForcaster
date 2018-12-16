@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="8dp"
+    android:paddingLeft="64dp"
+    android:paddingRight="32dp"
+    tools:background="@drawable/gradient_background">
+
+    <ImageView
+        android:id="@+id/temperatureImageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:paddingBottom="0dp"
+        android:src="@drawable/bg_temperature" />
+
+    <ImageView
+        android:id="@+id/iconImageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:src="@drawable/clear_night"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/temperatureImageView"
+        android:layout_toEndOf="@+id/temperatureImageView" />
+
+    <TextView
+        android:id="@+id/dayName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toEndOf="@+id/iconImageView"
+        android:layout_toRightOf="@+id/iconImageView"
+        android:paddingLeft="10dp"
+        android:textColor="#ffffff"
+        android:textSize="20sp"
+        tools:text="Wednesday" />
+
+    <TextView
+        android:id="@+id/temperatureLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/temperatureImageView"
+        android:layout_alignLeft="@id/temperatureImageView"
+        android:layout_alignRight="@id/temperatureImageView"
+        android:layout_alignTop="@id/temperatureImageView"
+        android:layout_centerVertical="true"
+        android:gravity="center"
+        android:textColor="#1d6232"
+        tools:text="100" />
+</RelativeLayout>

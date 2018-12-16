@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Weather Forcaster</string>
+    <string name="error_message">There was an error. Please try again</string>
+    <string name="error_title">Oops Sorry!!!</string>
+    <string name="network_unavailable">Network unavailable</string>
+    <string name="exception_caught">Exception Caught</string>
+    <string name="fetching_data">Fetching data.....</string>
+    <string name="rain">RAIN?</string>
+    <string name="humidity">HUMIDITY</string>
+    <string name="mumbai_india">Mumbai, India</string>
+    <string name="no_data">No data to display</string>
+</resources>

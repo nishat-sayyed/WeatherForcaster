@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "E:\\WeatherForcaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fog.png",
+        "source": "E:\\WeatherForcaster\\app\\src\\main\\res\\drawable-mdpi\\fog.png"
+    },
+    {
+        "merged": "E:\\WeatherForcaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\sleet.png",
+        "source": "E:\\WeatherForcaster\\app\\src\\main\\res\\drawable-mdpi\\sleet.png"
+    },
+    {
+        "merged": "E:\\WeatherForcaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\clear_night.png",
+        "source": "E:\\WeatherForcaster\\app\\src\\main\\res\\drawable-mdpi\\clear_night.png"
+    },
+    {
+        "merged": "E:\\WeatherForcaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\rain.png",
+        "source": "E:\\WeatherForcaster\\app\\src\\main\\res\\drawable-mdpi\\rain.png"
+    },
+    {
+        "merged": "E:\\WeatherForcaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\refresh.png",
+        "source": "E:\\WeatherForcaster\\app\\src\\main\\res\\drawable-mdpi\\refresh.png"
+    },
+    {
+        "merged": "E:\\WeatherForcaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\partly_cloudy.png",
+        "source": "E:\\WeatherForcaster\\app\\src\\main\\res\\drawable-mdpi\\partly_cloudy.png"
+    },
+    {
+        "merged": "E:\\WeatherForcaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\snow.png",
+        "source": "E:\\WeatherForcaster\\app\\src\\main\\res\\drawable-mdpi\\snow.png"
+    },
+    {
+        "merged": "E:\\WeatherForcaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\degree.png",
+        "source": "E:\\WeatherForcaster\\app\\src\\main\\res\\drawable-mdpi\\degree.png"
+    },
+    {
+        "merged": "E:\\WeatherForcaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\cloudy_night.png",
+        "source": "E:\\WeatherForcaster\\app\\src\\main\\res\\drawable-mdpi\\cloudy_night.png"
+    },
+    {
+        "merged": "E:\\WeatherForcaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\clear_day.png",
+        "source": "E:\\WeatherForcaster\\app\\src\\main\\res\\drawable-mdpi\\clear_day.png"
+    },
+    {
+        "merged": "E:\\WeatherForcaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\cloudy.png",
+        "source": "E:\\WeatherForcaster\\app\\src\\main\\res\\drawable-mdpi\\cloudy.png"
+    },
+    {
+        "merged": "E:\\WeatherForcaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "E:\\WeatherForcaster\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\WeatherForcaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\sunny.png",
+        "source": "E:\\WeatherForcaster\\app\\src\\main\\res\\drawable-mdpi\\sunny.png"
+    },
+    {
+        "merged": "E:\\WeatherForcaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\wind.png",
+        "source": "E:\\WeatherForcaster\\app\\src\\main\\res\\drawable-mdpi\\wind.png"
+    },
+    {
+        "merged": "E:\\WeatherForcaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bg_temperature.png",
+        "source": "E:\\WeatherForcaster\\app\\src\\main\\res\\drawable-mdpi\\bg_temperature.png"
+    }
+]

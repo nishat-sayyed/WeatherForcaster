@@ -1,0 +1,7 @@
+#Sun Mar 26 18:18:02 IST 2017
+base.0=E\:\\WeatherForcaster\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_22fb8c6b57af7c308d2aa3325b38ad23177cea6d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\WeatherForcaster\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_39e3ed908b9b212a21b5674287a7c13f19576f40\\classes.dex
+base.1=E\:\\WeatherForcaster\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_39e3ed908b9b212a21b5674287a7c13f19576f40
+file.0=E\:\\WeatherForcaster\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_22fb8c6b57af7c308d2aa3325b38ad23177cea6d\\classes.dex
